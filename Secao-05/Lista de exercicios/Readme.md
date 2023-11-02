@@ -21,6 +21,10 @@ Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do j
 
 Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
 
+<div align="center">
+   <img src="https://github.com/guifterra/Curso-da-Udemy-Java-POO/assets/147010055/0f280e0b-abd8-488a-99c4-5a213d3dd577" />
+</div>
+
 ## Exercicio 06 ✅
 
 Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.

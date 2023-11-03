@@ -21,6 +21,10 @@ Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do j
 
 Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
 
+<div align="center">
+   <img src="https://github.com/guifterra/Curso-da-Udemy-Java-POO/assets/147010055/0f280e0b-abd8-488a-99c4-5a213d3dd577" />
+</div>
+
 ## Exercicio 06 ✅
 
 Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.
@@ -35,6 +39,10 @@ Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenada
 ## Exercicio 08 ✅
 
 Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem qualquer desvio. A moeda deste país é o Rombus, cujo símbolo é o R$.
+
+<div align="center">
+   <img src="https://github.com/guifterra/Curso-da-Udemy-Java-POO/assets/147010055/4ee58e63-37f6-44a5-8e5d-915240f3e351" />
+</div>
 
  + Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
 

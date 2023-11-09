@@ -10,7 +10,7 @@
 ## Exercicio 02 ✅
 
 <div align="center">
-   <img src="https://github.com/guifterra/Curso-da-Udemy-Java-POO/assets/147010055/0f280e0b-abd8-488a-99c4-5a213d3dd577" />
+   <img src="https://github.com/guifterra/Curso-da-Udemy-Java-POO/assets/147010055/3ef74463-f166-4a44-8e1a-ec70ad9c3347" />
 </div>
 
 ## Exercicio 03 ✅
